@@ -3,4 +3,3 @@ mig:
 	python3 manage.py migrate
 
 
-#dthhffj4cgcfku
